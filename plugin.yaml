@@ -1,0 +1,5 @@
+name: codex-accounts-usage
+version: "1.0.0"
+description: "Both saved Codex accounts: provider-reported quota percentages and reset times in the Desktop status bar."
+author: kosello
+kind: backend

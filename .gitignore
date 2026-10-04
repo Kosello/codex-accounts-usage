@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+.env
+.env.*
+auth.json
+codex-accounts-labels.json
+*.log
+*.png
